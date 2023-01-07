@@ -8,7 +8,7 @@ long_description = 'Sample Package made for a demo \
 
 setup(
 		name ='PyStuff2302',
-		version ='1.0.0',
+		version ='2.0.0',
 		author ='Arnav Dadarya',
 		author_email ='ardada2468@gmail.com',
 		url ='https://github.com/ardada2468/pystuff',
@@ -19,7 +19,7 @@ setup(
 		packages = find_packages(),
 		entry_points ={
 			'console_scripts': [
-				'gfg = vibhu4gfg.gfg:main'
+				'test = pystuff.test:main'
 			]
 		},
 		classifiers =(
@@ -27,7 +27,7 @@ setup(
 			"License :: OSI Approved :: MIT License",
 			"Operating System :: OS Independent",
 		),
-		keywords ='geeksforgeeks gfg article python package vibhu4agarwal',
+		keywords ='arnav dadarya',
 		install_requires = requirements,
 		zip_safe = False
 )
