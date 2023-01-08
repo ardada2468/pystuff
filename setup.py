@@ -8,7 +8,7 @@ long_description = 'Sample Package made for a demo \
 
 setup(
 		name ='PyStuff2302',
-		version ='2.0.0',
+		version ='3.0.0',
 		author ='Arnav Dadarya',
 		author_email ='ardada2468@gmail.com',
 		url ='https://github.com/ardada2468/pystuff',
