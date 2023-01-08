@@ -13,7 +13,7 @@ print(response.text)
 
 def main():
 
-	parser = argparse.ArgumentParser(prog ='gfg',
+	parser = argparse.ArgumentParser(prog ='test',
 									description ='GfG article demo package.')
 
 	parser.add_argument('integers', metavar ='N', type = int, nargs ='+',
