@@ -7,7 +7,7 @@ long_description = 'Sample Package made for a demo \
 	of its making for the GeeksforGeeks Article.'
 
 setup(
-		name ='PyStuff2302',
+		name ='PyTestingNew',
 		version ='4.0.0',
 		author ='Arnav Dadarya',
 		author_email ='ardada2468@gmail.com',
