@@ -1,2 +1,2 @@
 [console_scripts]
-test = pystuff.test:main
+dbutils = pystuff.test:main
